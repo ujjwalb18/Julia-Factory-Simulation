@@ -1,0 +1,23 @@
+# file created by code in factory_simulation.jl
+# file created on 2023-11-07 at 15:39:26
+# parameter: seed = 1
+# parameter: mean_interarrival = 60.0
+# parameter: mean_construction_time = 25.0
+# parameter: mean_interbreakdown_time = 2880.0
+# parameter: mean_repair_time = 180.0
+id,arrival_time,service_start_time,completion_time,interrupted
+1.0,0.0,0.0,25.0,0.0,Departed
+2.0,40.499,40.499,65.499,0.0,Departed
+3.0,51.694,65.499,90.499,0.0,Departed
+4.0,117.235,117.235,142.235,0.0,Departed
+5.0,182.987,730.587,755.587,0.0,Departed
+6.0,209.096,755.587,780.587,0.0,Departed
+7.0,378.339,780.587,805.587,0.0,Departed
+8.0,449.016,805.587,830.587,0.0,Departed
+9.0,450.529,830.587,855.587,0.0,Departed
+10.0,471.849,855.587,880.587,0.0,Departed
+11.0,494.568,880.587,905.587,0.0,Departed
+12.0,515.349,905.587,930.587,0.0,Departed
+13.0,643.668,930.587,955.587,0.0,Departed
+14.0,665.48,955.587,980.587,0.0,Departed
+15.0,666.409,980.587,1005.587,0.0,Departed
